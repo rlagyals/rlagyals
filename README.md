@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hyooomn's%20Github%20🩵&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
 
-## 김효민 Hyomin Kim
+## 🏢 Work
 - 2025.07 ~ 2025.12 : 아이리스브라이트 퍼포먼스 마케팅 인턴
 
 
