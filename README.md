@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hyooomn's%20Github%20🩵&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
 
 ## 🏢 Work
+- 2026.07 ~ 2026.12 : SK AI Leader Academy 4th
 - 2025.07 ~ 2025.12 : 아이리스브라이트 퍼포먼스 마케팅 인턴
 
 
@@ -21,11 +22,12 @@
 - 2024.11.07 : 제32회 아주대학교 학술제 ‘B-cube 소학회 웹사이트 개발’ 대상
 - 2024.11.10 : 제7회 해커톤 경진대회 최우수상
 - 2023.12.22 : 코드클럽한국위원회 SW교육기부단 이사장상 - 최우수상
-- 2022.07.01 : 2022 한국전자거래학회 춘계학술대회 아이디어 공모전 - 동상
+- 2022.07.01 : 2022 한국전자거래학회 춘계학술대회 아이디어 공모전 동상
 
 
   
 ## 📚 Certificate
+- 2026.06 : Google Analytics Individual Qualification
 - 2024.06 : SQL Developer
 - 2023.09 : Advanced Data Analytics Semi-Professional
   
