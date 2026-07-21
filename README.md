@@ -10,14 +10,16 @@
 ## 📂 Projects
 - 2025.02 ~ 2025.07 : [야구 직관 기록 앱(BallFan) 서비스 개발](https://github.com/rlagyals/BallFan)
 - 2024.07 ~ 2024.12 : [워킹스쿨버스 앱(동행) 서비스 개발](https://github.com/rlagyals/WalkingSchoolBus)
+- 2024.10 ~ 2024.11 : [제3회 신한 빅데이터 해커톤](https://github.com/rlagyals/Shinhan-Hackathon)
 - 2024.08 ~ 2024.11 : [B-cube 소학회 웹 서비스 개발](https://github.com/rlagyals/b-cube-frontend)
 - 2024.05 ~ 2024.11 : [드라이브 코스 통합 앱(Drivel) 서비스 개발](https://github.com/rlagyals/Drivel)
+  
 
 
 ## 🏆 Awards
 - 2025.06.10 : 아주대학교 SOFTCON 개발 부문 캡스톤디자인 우수상
 - 2024.12.05 : 아주대학교 파란학기제 우수상
-- 2024.11.21 : 2024 신한 빅데이터 해커톤 최우수상, 교육부장관상
+- 2024.11.21 : 2024 제3회 신한 빅데이터 해커톤 최우수상, 교육부장관상
 - 2024.11.19 : 한국관광공사 × 카카오 ‘2024 관광 데이터 활용 공모전’ 개발 부문 우수상
 - 2024.11.07 : 제32회 아주대학교 학술제 ‘B-cube 소학회 웹사이트 개발’ 대상
 - 2024.11.10 : 제7회 해커톤 경진대회 최우수상
